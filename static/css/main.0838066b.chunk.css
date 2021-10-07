@@ -1,0 +1,2 @@
+body{margin:0;padding:0;justify-content:center;min-height:100vh;background:#eee}.list-container,body{display:flex;align-items:center}.list-container{width:90vw;justify-content:space-around}.list-container>*{margin:0 1rem}@media(max-width:760px){.list-container{flex-direction:column}.list-container>*{margin:1rem 0}}
+/*# sourceMappingURL=main.0838066b.chunk.css.map */
